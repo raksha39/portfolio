@@ -3,7 +3,6 @@ body{
     text-align: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSflg2GpFFPaI_LKbXr8EF-hQpm5mlQ-xpVCA&s');
     transition: background-image 0.5s ease;
 }
 .weather-card {
